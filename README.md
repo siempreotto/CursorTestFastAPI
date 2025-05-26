@@ -23,8 +23,8 @@ A modern REST API built with FastAPI for managing restaurant dishes (platos).
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fastapi-project.git
-   cd fastapi-project
+   git clone https://github.com/siempreotto/CursorTestFastAPI.git
+   cd CursorTestFastAPI
    ```
 
 2. **Create and activate virtual environment:**
@@ -96,7 +96,7 @@ curl -X PATCH http://127.0.0.1:9500/api/v1/platos/1 \
 ## 📁 Project Structure
 
 ```
-fastapi-project/
+CursorTestFastAPI/
 ├── main.py              # Main FastAPI application
 ├── settings.py          # Configuration settings
 ├── schemas.py           # Pydantic schemas
